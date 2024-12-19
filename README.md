@@ -9,7 +9,7 @@ During development, verifying your UI with content is crucial. The **Random Cont
 
 ## Installation
 ```bash
-npm install random-content-generator
+npm install strapi-random-content-generator
 ```
 ## Usage
 1. Install the plugin in your Strapi project.  
